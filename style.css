@@ -1,5 +1,5 @@
 
-.fm-dark{
+.fm-dark {
     background-color: #2C3E50;
 }
 
@@ -17,7 +17,7 @@
 }
 
 #contact{
-    height: 1000px;
+    height: 800px;
 }
 
 .btn-outline-dark{
@@ -33,4 +33,18 @@
 .fm-mt-200{
     margin-top: 200px;
 }
-    
+
+footer {
+    background-color: #2C3E50;
+    color: white;
+    height: 600px;
+}
+
+.social i{
+    padding: 10px;
+}
+
+a{
+    color: #1ABC9C;
+    text-decoration: none;
+}
