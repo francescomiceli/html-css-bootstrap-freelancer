@@ -11,3 +11,26 @@
 .fm-img-width{
     width: 40%;
 }
+
+.fm-white{
+    color: white;
+}
+
+#contact{
+    height: 1000px;
+}
+
+.btn-outline-dark{
+    color: white;
+    border: 1px solid white;
+}
+
+.btn-success{
+    background-color: #1ABC9C;
+    border: none;
+}
+
+.fm-mt-200{
+    margin-top: 200px;
+}
+    
