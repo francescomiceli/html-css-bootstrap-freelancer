@@ -9,7 +9,7 @@
 }
 
 .fm-img-width{
-    width: 40%;
+    width: 250px;
 }
 
 .fm-white{
@@ -68,11 +68,19 @@ a{
     display: inline-block;
     align-items: center;
     justify-content: center;
-    padding: 20px;
+    padding: 13px;
+    padding-left: 15px;
     border-radius: 50%;
-    width: 65px;
-    height: 65px;
+    width: 50px;
+    height: 50px;
+    background-color: #3A546D;
+    opacity: 100%;
     }
+
+.icons:hover{
+    opacity: 50%;
+    
+}
 
 .form-control-custom{
     border-top: none;
@@ -82,7 +90,6 @@ a{
     }
 
 .footer-contacts{
-    border: 1px solid red;
     background-color: #2C3E50;
     height: 100px;
 }
