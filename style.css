@@ -35,7 +35,7 @@
 }
 
 #contact{
-    height: 800px;
+    height: auto;
 }
 
 .btn-outline-dark{
@@ -53,13 +53,9 @@
 }
 
 footer {
-    background-color: #2C3E50;
+    background-color: #3A546D;
     color: white;
-    height: 600px;
-}
-
-.social i{
-    padding: 10px;
+    
 }
 
 a{
@@ -70,9 +66,24 @@ a{
 .icons{
     border: 1px solid white;
     display: inline-block;
+    align-items: center;
+    justify-content: center;
     padding: 20px;
     border-radius: 50%;
-    width: 80px;
-    height: 80px;
+    width: 65px;
+    height: 65px;
+    }
+
+.form-control-custom{
+    border-top: none;
+    border-right: none;
+    border-left: none;
     
     }
+
+.footer-contacts{
+    border: 1px solid red;
+    background-color: #2C3E50;
+    height: 100px;
+}
+
